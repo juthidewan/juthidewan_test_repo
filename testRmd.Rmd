@@ -1,0 +1,14 @@
+---
+title: "testRmd"
+author: "Juthi Dewan"
+date: "3/18/2021"
+output: html_document
+---
+
+```{r}
+library(ggplot2)
+
+1+2+3
+```
+
+# 1+2+3 equals to 6. 
